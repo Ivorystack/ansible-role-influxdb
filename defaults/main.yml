@@ -1,13 +1,14 @@
 ---
 
 # Databases
-manala_influxdb_databases:  []
+manala_influxdb_databases:   []
 
 # Users
-manala_influxdb_users:      []
+manala_influxdb_admin_users: []
+manala_influxdb_users:       []
 
 # Privileges
-manala_influxdb_privileges: []
+manala_influxdb_privileges:  []
 
 # Bin
 manala_influxdb_influx_bin: /usr/bin/influx
